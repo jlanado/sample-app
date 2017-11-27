@@ -1,5 +1,5 @@
-This is example stack will provision several containers as follows:
--------------------------------------------------------------------
+This example stack will provision several containers as follows:
+----------------------------------------------------------------
 - Python web application that will let you select between two choices
 - Redis queue  (key:value datastore) to collect the inputs
 - .NET worker app which takes the input and store it to a database
